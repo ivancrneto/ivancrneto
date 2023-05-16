@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on **myself**
-- 🌱 I’m currently learning **Vue, React, Machine Learning**
+- 🌱 I’m currently learning **Machine Learning, React, AWS**
 - 👯 I’m looking to collaborate on **people's evolution**
 - 🤝 I’m looking for help with **Machine Learning**
 - 👨‍💻 All of my projects are available at [http://github.com/gogixweb](http://github.com/gogixweb)
