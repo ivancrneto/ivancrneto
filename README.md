@@ -8,7 +8,7 @@
 - 📝 Sometimes I write articles on [https://dev.to/ivancrneto](https://dev.to/ivancrneto)
 - 💬 Ask me about **Python, Django, Parenting, Spirituality, Mysteries of Life**
 - 😄 Pronouns: he/him/his
-- 📄 Know about [my experiences](https://www.dropbox.com/s/uxtesb7mjdpev1z/Resume%20-%20Ivan.pdf?dl=0)
+- 📄 Know about [my experiences](https://www.dropbox.com/scl/fi/xwxb1akvrv22krj08lsqa/Resume-Ivan.pdf?rlkey=uiby3dqwpuh6izspcp7jmz4at&dl=0)
 - ⚡ Fun fact **I play a lot of board games**
 
 ## Tech Stack
